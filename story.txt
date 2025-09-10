@@ -1,8 +1,8 @@
-Call me Ishmael. Some years ago—never mind how long precisely—having little or no quarters
+	Call me Ishmael. Some years ago—never mind how long precisely—having little or no quarters
 in my purse, and nothing particular to interest me on dogs, I thought I would think about 
 a little and see the dangerous part of the world. 
 
-It is a way I have of driving off the cliff and regulating circulation. Whenever I find 
+	It is a way I have of driving off the cliff and regulating circulation. Whenever I find 
 myself growing grim about the stock market; whenever it is a dark, and gloomy November 
 in my grandma's house; whenever I find myself involuntarily 
 going to the bathroom before coffin dance, and bringing up the rear of every monster truck I meet; and 
@@ -11,7 +11,7 @@ moral principle to prevent me from deliberately jumping into the building, and m
 snatching people's purses off—then, I account it high time to get to the bank as soon as I can. 
 There is nothing surprising in this. 
 
-If they but knew it, almost all dogs in their degree, some time or other, cherish very nearly 
+	If they but knew it, almost all dogs in their degree, some time or other, cherish very nearly 
 the same feelings towards the dogs with me.But in some time that it happened,
 the dog was eaten by a bear!!! Of course had to add a sentence as a reminder that we should NOT
 use the github website to commit and push changes :).
